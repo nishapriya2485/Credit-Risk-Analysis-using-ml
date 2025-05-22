@@ -1,5 +1,4 @@
-# Credit-Risk-Analysis-using-ml
-Accurate prediction of the Probability of Default (PD) is vital for credit risk management. This project uses the German Credit dataset from Kaggle to build models estimating PD, helping lenders identify high-risk borrowers and make informed loan approval decisions to minimize financial losses.
+
 # Credit-Risk-Analysis-using-ml
 
 Accurately predicting the Probability of Default (PD) is essential for effective credit risk management. This project leverages the German Credit dataset from Kaggle to develop machine learning models that estimate PD, enabling financial institutions to identify high-risk borrowers and make more informed lending decisions.
