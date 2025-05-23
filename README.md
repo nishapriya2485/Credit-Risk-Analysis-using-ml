@@ -10,7 +10,7 @@ To build robust predictive models that assess the likelihood of loan default usi
 ## Dataset
 
 - **Source:** [German Credit Data – Kaggle](https://www.kaggle.com/datasets/uciml/german-credit)
-- **Attributes:** Includes over 20 features such as credit amount, loan duration, age, employment status, and loan purpose.
+- **Attributes:** Includes over 11 features such as credit amount, loan duration, age, employment status, and loan purpose.
 - **Target Variable:** Indicates whether a customer is a good or bad credit risk.
 
 ## Core Concepts
