@@ -30,13 +30,11 @@ To build robust predictive models that assess the likelihood of loan default usi
 
 ## Methodology
 
-1. Data Cleaning & Preprocessing  
-2. Exploratory Data Analysis (EDA)  
-3. Feature Engineering  
-4. Model Training (Logistic Regression, Random Forest, etc.)  
-5. Performance Evaluation (Accuracy, AUC-ROC, Precision, Recall)  
-6. Result Interpretation and Insights
-
+1.Data Cleaning & Preprocessing
+2.Exploratory Data Analysis (EDA)
+3.Model Training (Logistic Regression, Random Forest, etc.)
+4.Performance Evaluation (Accuracy, AUC-ROC, Precision, Recall)
+5.Result Interpretation and Insights
 ## Outcome
 
 The final model effectively distinguishes between high and low-risk applicants, demonstrating strong predictive capability and offering valuable insights for risk mitigation.
